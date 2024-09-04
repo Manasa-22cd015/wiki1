@@ -1,3 +1,5 @@
-abcdefghijklmnop
-tryuiiqwfgh
-fgh
+#include<stdio.h>
+int main()
+{
+printf("hello")
+}
